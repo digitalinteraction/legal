@@ -6,7 +6,7 @@ We may collect data on how you interact with the service and use this is researc
 
 We often publish academic papers which may contain aggregated user data. Our published findings will never include information that could be used to identify users of the system.
 
-### Contact information:
+### Contact Information:
 If you have any questions about our research in relation to this service please feel free to contact us:
 
 **Address**:  
@@ -21,5 +21,5 @@ NE4 5TG
 **Phone**: +44 191 20  84642 | 84630  
 **Email**: openlab-admin@newcastle.ac.uk  
 
-### Effective date:
+### Effective Date:
 May 25, 2018
