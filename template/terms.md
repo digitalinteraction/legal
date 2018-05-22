@@ -87,16 +87,16 @@ Any and all notices to be given by either one of us to the other pursuant to or 
 ### CONTACT INFORMATION.
 Should you have any questions, contact us:
 
-*Address*:
-	Open Lab
-	Floor 1
-	Urban Sciences Building
-	1 Science Square
-	Science Central
-	Newcastle Upon Tyne
-	NE4 5TG
-*Phone*: +44 191 20  84642 | 84630
-*Email*: openlab-admin@newcastle.ac.uk
+*Address*:  
+Open Lab  
+Floor 1  
+Urban Sciences Building  
+1 Science Square  
+Science Central  
+Newcastle Upon Tyne  
+NE4 5TG  
+*Phone*: +44 191 20  84642 | 84630  
+*Email*: openlab-admin@newcastle.ac.uk  
 
 ### EFFECTIVE DATE.
 May 25, 2018
