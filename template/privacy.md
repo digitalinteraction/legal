@@ -10,7 +10,7 @@ Your privacy is important to us and we believe you should always know what data 
 * [SERVICE NAME] may share personal data with businesses outside of the EU in order to provide a better service. [SERVICE NAME] is hosted on [HOSTING PROVIDER], uses [STORAGE PROVIDER] for storing data securely and [EMAIL PROVIDER] to distribute emails.
 * [SERVICE NAME] complies with GDPR and any external services that are not based in the EU comply with the EU-US Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the EU and Switzerland. For more information about the Privacy Shield generally, and to view the certificates online, please visit https://www.privacyshield.gov.
 
-# Full Policy
+# Full Privacy Policy
 Please read this privacy policy carefully before using the services offered by Open Lab, University of Newcastle Upon Tyne (“Open Lab, Newcastle University”, "Open Lab, University of Newcastle Upon Tyne", “we”, “us”). We recognise the importance of your privacy. Therefore, we have created this Privacy Policy so that you know how we use and disclose your information when you make it available to us. This Privacy Policy applies solely to information collected at this Site. By using or accessing the Site, you signify your agreement to be bound by our Privacy Policy.
 
 **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE OUR SITE.**
@@ -66,7 +66,7 @@ Use of this Site is governed by, and subject to, the Terms of Use contained at [
 
 Transfers of Personal Data Outside the EEA: The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-### Contact information:
+### Contact Information:
 Should you have any questions, contact us:
 
 **Address**:  
@@ -81,5 +81,5 @@ NE4 5TG
 **Phone**: +44 191 20  84642 | 84630  
 **Email**: openlab-admin@newcastle.ac.uk  
 
-### Effective date:
+### Effective Date:
 May 25, 2018
