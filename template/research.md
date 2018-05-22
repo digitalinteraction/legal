@@ -6,10 +6,10 @@ We may collect data on how you interact with the service and use this is researc
 
 We often publish academic papers which may contain aggregated user data. Our published findings will never include information that could be used to identify users of the system.
 
-### CONTACT INFORMATION.
+### Contact information:
 If you have any questions about our research in relation to this service please feel free to contact us:
 
-*Address*:  
+**Address**:  
 Open Lab  
 Floor 1  
 Urban Sciences Building  
@@ -17,8 +17,9 @@ Urban Sciences Building
 Science Central  
 Newcastle Upon Tyne  
 NE4 5TG  
-*Phone*: +44 191 20  84642 | 84630  
-*Email*: openlab-admin@newcastle.ac.uk  
 
-### EFFECTIVE DATE.
+**Phone**: +44 191 20  84642 | 84630  
+**Email**: openlab-admin@newcastle.ac.uk  
+
+### Effective date:
 May 25, 2018
