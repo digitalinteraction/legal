@@ -8,7 +8,7 @@ These Terms of Use apply to all users of the Service, including, without limitat
 ### Use of the Service:
 You may use this Service only subject to these Terms of Use, all applicable laws, rules and regulations and any agreements or terms with third parties to which you are subject. You may not use this Service for commercial purposes, such as to promote a product or service, without our prior written consent. We may impose restrictions on certain features or your access to the Service without notice or liability.
 
-### Prohibited use:
+### Prohibited Use:
 You may not use spiders, robots, data mining techniques or other automated devices or programs to catalog, download or otherwise reproduce, store or distribute content available on the Service. Further, you may not use any such automated means to manipulate the Service or attempt to exceed the limited authorisation and access granted to you under these Terms of Use or disrupt the Service or any other user's use of the Service, including, without limitation, via means of overloading, “flooding”, “mail-bombing” or “crashing” the Service or circumventing security or user authentication measures. You may not frame portions of the Service within another web site or establish links from any other web site to any page of the Service other than the home page. You may not resell use of, or access to, the Service to any third party.
 
 ### Content:
@@ -20,7 +20,7 @@ We reserve the right, in our sole discretion, to reject, refuse to post or remov
 
 After posting your Content to the Service, you continue to retain all ownership rights in such Content, and you continue to have the right to use your Content in any way you choose. By supplying Content to any area of the Service, you automatically grant to us for purposes of maintaining the Service, making Content available, and you represent and warrant that you have the right to grant an irrevocable, transferable, sub-licensable, perpetual, non-exclusive, fully paid up, worldwide license to use, copy, perform, reproduce, display, edit, modify and distribute such information and Content and to prepare derivative works of, or incorporate into other works, such Content. Additionally, we shall be free to use any ideas, concepts, know-how or techniques contained in such Content for any purpose whatsoever, including without limitation, developing, manufacturing and marketing products and services which incorporate such Content, including mobile applications that may be created using the Service.
 
-### Online behaviour:
+### Online Behaviour:
 The Service is a space dedicated to helping communities engage in new and creative ways of commissioning mobile applications. You should not post Content to the Service that is inappropriate for or unrelated to this mission. The following is a partial list of the type of Content that is illegal or prohibited to post on or through the Service. Prohibited Content includes, but is not limited to Content that:
 
 1. is patently offensive and promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
@@ -39,10 +39,10 @@ The Service is a space dedicated to helping communities engage in new and creati
 14. or includes a photograph or video footage of another person that you have posted without that person's consent or other third party content including but not limited to music, trademarks, logos, artwork or any other copyrighted, trademarked, or proprietary third party content that you have not secured permission to include on the Site.
 15. If you wish to report any Content or conduct on the Service that you believe is inappropriate, please contact us at openlab-admin@newcastle.ac.uk.
 
-### No content monitoring:
+### No Content Monitoring:
 We are under no obligation to screen or monitor Content, but may review Content from time to time at our sole discretion to review compliance with these Terms of Use. We will make all determinations as to what Content is appropriate in our sole discretion. We may include, edit or remove any Content at any time without notice. We may employ automated monitoring devices or techniques to protect our users from mass unsolicited communications (also known as "spam") and/or other types of electronic communications that we deem objectionable. Such devices or techniques are not perfect, and we will not be responsible for any legitimate communication that is blocked, or for any unsolicited communication that is not blocked. Mailboxes may have a limited storage capacity. If you exceed the maximum permitted storage space, we may employ automated devices that delete or block email messages that exceed the limit. We will not be responsible for such deleted or blocked messages.
 
-### Termination of access:
+### Termination of Access:
 In addition to any right or remedy that may be available to us under these Terms of Use or applicable law, we may suspend, limit or terminate all or a portion of your access to the Service, at any time with or without notice and with or without cause. In addition, we may refer any information on illegal activities, including your identity, to the proper authorities.
 
 ### Privacy:
@@ -55,10 +55,10 @@ The existence of a link between this Service and any other website is not and sh
 
 You agree that we shall not be liable to you or anyone else for any type of loss or damages, regardless of whether based on contract, negligence, intentional wrongdoing, or liability without fault for any costs, losses, or damages (whether direct, indirect, compensatory, special, lost profits, liquidated, consequential, or punitive) arising out of or in any way in connection with your access to or use of any such third party site.
 
-### Our proprietary rights:
+### Our Proprietary Rights:
 We or our licensors are the exclusive owners of all copy, software, graphics, designs and all copyrights, trademarks and other intellectual property or proprietary rights contained on or used in connection with the Service. Except as set forth herein, you agree not to copy, distribute, modify or make derivative works of any materials without the prior written consent of the owner of such materials. All rights not granted under these Terms of Use are reserved by us.
 
-### No warranties:
+### No Warranties:
 The Service, including all content made available on or accessed through the Service, is provided "as is" and we make no representations or warranties of any kind whatsoever for the content made available through the Service. The Service may contain typographical errors and you agree that we shall not be bound by any such errors.
 
 Further, to the fullest extent permissible by law, we disclaim any express or implied warranties, including, without limitation, non-infringement, title, merchantability or fitness for a particular purpose.
@@ -72,7 +72,7 @@ In no event will we be liable under any theory of tort, contract, strict liabili
 ### Indemnity:
 You agree to defend, indemnify and hold harmless us, our business partners and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from any breach by you of any of these Terms of Use.
 
-### Jurisdiction and governing law:
+### Jurisdiction and Governing Law:
 English law governs these terms and conditions. You submit to the non-exclusive jurisdiction of the English courts.
 
 ### Severability:
@@ -84,7 +84,7 @@ The failure by us to partially or fully exercise any rights or the waiver of any
 ### Notices:
 Any and all notices to be given by either one of us to the other pursuant to or in connection with these Terms of Use shall be deemed sufficiently given when forwarded by e-mail in each case addressed to you at the e-mail address you have given us or to us at the e-mail address displayed on the Service.
 
-### Contact information:
+### Contact Information:
 Should you have any questions, contact us:
 
 **Address**:  
@@ -99,5 +99,5 @@ NE4 5TG
 **Phone**: +44 191 20  84642 | 84630  
 **Email**: openlab-admin@newcastle.ac.uk  
 
-### Effective date:
+### Effective Date:
 May 25, 2018
