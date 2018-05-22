@@ -80,5 +80,5 @@ NE4 5TG
 **Phone**: +44 191 20  84642 | 84630  
 **Email**: openlab-admin@newcastle.ac.uk  
 
-### EFFECTIVE DATE.
+### Effective date:
 May 25, 2018
