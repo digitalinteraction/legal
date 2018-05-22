@@ -9,16 +9,16 @@ We often publish academic papers which may contain aggregated user data. Our pub
 ### CONTACT INFORMATION.
 If you have any questions about our research in relation to this service please feel free to contact us:
 
-*Address*:
-Open Lab
-Floor 1
-Urban Sciences Building
-1 Science Square
-Science Central
-Newcastle Upon Tyne
-NE4 5TG
-*Phone*: +44 191 20  84642 | 84630
-*Email*: openlab-admin@newcastle.ac.uk
+*Address*:  
+Open Lab  
+Floor 1  
+Urban Sciences Building  
+1 Science Square  
+Science Central  
+Newcastle Upon Tyne  
+NE4 5TG  
+*Phone*: +44 191 20  84642 | 84630  
+*Email*: openlab-admin@newcastle.ac.uk  
 
 ### EFFECTIVE DATE.
 May 25, 2018
