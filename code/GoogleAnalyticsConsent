@@ -1,0 +1,71 @@
+<script async src="https://www.googletagmanager.com/gtag/js"></script>   
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    var tracker = 'INSERT GA TRACKING CODE HERE';
+    window['ga-disable-'+tracker] = true;
+
+    function enableGA()
+    {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', tracker, { 'anonymize_ip': true });
+        window['ga-disable-'+tracker] = false;        
+    }
+
+    function disableGA()
+    {
+        window['ga-disable-'+tracker] = true;        
+    }
+
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+    "palette": {
+        "popup": {
+        "background": "#0088aa"
+        },
+        "button": {
+        "background": "#fff",
+        "text": "#0088aa"
+        }
+    },
+    "position": "bottom-right",
+    "type": "opt-in",
+    "content": {
+        "message": "This website uses a cookie for Google Analytics to aid our understanding of how people use video.",
+        "link": "Learn More",
+        "href": "INSERT URL TO POLICY HERE",
+        "dismiss":"Decline"
+    },
+    onInitialise: function (status) {
+    var type = this.options.type;
+    var didConsent = this.hasConsented();
+    if (type == 'opt-in' && status=='allow' && didConsent) {
+        // enable cookies
+        enableGA();
+    }
+    
+    },
+ 
+    onStatusChange: function(status, chosenBefore) {
+        var type = this.options.type;
+        var didConsent = this.hasConsented();
+        
+        if (type == 'opt-in' && status=='allow' && didConsent) {
+            // enable cookies
+            enableGA();
+        }
+    },  
+ 
+    onRevokeChoice: function() {
+        // console.log("revoke");
+        
+    var type = this.options.type;
+        if (type == 'opt-in') {
+            // disable cookies
+            disableGA();
+        }
+    },
+    })});
+    </script>
